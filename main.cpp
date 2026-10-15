@@ -8,7 +8,7 @@ int main()
 	int b = 0;
 	int c = 2;
 	std::cout << "‚Î‚È‚È";
-	std::cout << "‚¢‚¿‚²";
+	std::cout << "‚İ‚©‚ñ";
 	//ƒLƒG[
 	//‚©‚É‚©‚Ü‡—¬
 	return 0;
