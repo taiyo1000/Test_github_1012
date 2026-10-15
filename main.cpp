@@ -9,6 +9,7 @@ int main()
 	int c = 2;
 	std::cout << "‚Î‚È‚È";
 	std::cout << "‚İ‚©‚ñ";
+	std::cout << "‚½‚¯‚Ì‚±";
 	//ƒLƒG[
 	//‚©‚É‚©‚Ü‡—¬
 	return 0;
