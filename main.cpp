@@ -1,5 +1,7 @@
 #include<iostream>
 
+//githubdesktopのテストだよ。
+
 int main()
 {
 
