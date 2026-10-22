@@ -5,6 +5,7 @@
 int main()
 {
 	//‚ ‚ ‚ ‚ 
+	//‚¢‚¢‚¢‚¤
 	std::cout << "”ø”fƒ\ƒtƒg" << std::endl;
 	int a = 1;
 	int b = 0;
