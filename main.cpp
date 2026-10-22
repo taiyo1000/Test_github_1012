@@ -26,6 +26,7 @@ int main()
 	std::cout << a * b * c;
 
 	//テンプレート添付
+	//ぐえ～
 
 	return 0;
 
