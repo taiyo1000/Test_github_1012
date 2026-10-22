@@ -24,6 +24,7 @@ int main()
 	//コンビニのおにぎりは高すぎる
 
 	std::cout << a * b * c;
+	//テンプレート添付
 
 	return 0;
 
